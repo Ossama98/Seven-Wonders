@@ -2,7 +2,7 @@
 
  ## **[Lien du github du projet.](https://github.com/uca-m1informatique-softeng/M1-S1-7W-vamos)**
  
- #### Le projet fut présenté devant un jury de 4 professeurs d'informatique. [(les diapositives de la présentation)](https://github.com/Ossama98/Seven-Wonders/presentation.pdf).  
+ #### Le projet fut présenté devant un jury de 4 professeurs d'informatique. [(les diapositives de la présentation)](https://github.com/Ossama98/Seven-Wonders/blob/main/presentation.pdf).  
 
  
 ### Itération 1:
