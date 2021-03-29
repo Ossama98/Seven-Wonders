@@ -32,7 +32,7 @@ Quand le jeu se termine, un vainqueur est décidé en fonction du nombre de poin
 - [X] Première implémentation des inteligences artificielles
 - [X] Configuration du Sonar
 - [X]  Mode statistique
-- [ ]  Serveur fonctionnel
+- [X]  Serveur fonctionnel
 - [X] Ajout des derniers effets de carte
 
 ### Itération 5:
