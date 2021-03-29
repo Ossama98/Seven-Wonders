@@ -1,4 +1,5 @@
 # Seven-Wonders
+Le projet consistait à développer en JAVA et en respectant les méthodes agile le jeu Seven Wonders, ainsi que des IA pas très avancées.
 
  ## **[Lien du github du projet.](https://github.com/uca-m1informatique-softeng/M1-S1-7W-vamos)**
  
